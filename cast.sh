@@ -13,4 +13,5 @@ read
 cls
 
 #desligando o sercvidor
-shutdown -h now
+shutdown -r now
+
